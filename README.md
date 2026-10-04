@@ -129,11 +129,11 @@ flowchart LR
 <!-- LIVE:RECENT:START -->
 | Repo | What it is | Lang | Pushed |
 |---|---|---|---|
-| [**tha6unn**](https://github.com/tha6unn/tha6unn) | – | Python | today |
-| [**KST_Sample**](https://github.com/tha6unn/KST_Sample) | – | HTML | 3 mo ago |
-| [**ai-finance-manager**](https://github.com/tha6unn/ai-finance-manager) | – | JavaScript | 6 mo ago |
-| [**tamilnexus**](https://github.com/tha6unn/tamilnexus) | TamilNexus - Premium Tamil Language Learning Platform Website | HTML | 6 mo ago |
-| [**D2V_sample**](https://github.com/tha6unn/D2V_sample) | – | JavaScript | 9 mo ago |
+| [**Real-time-Face-Detection-with-Latency-and-FPS-Calculation**](https://github.com/tha6unn/Real-time-Face-Detection-with-Latency-and-FPS-Calculation) | This project demonstrates real-time face detection using OpenVINO (Open Visual Inferenc… | Python | 2 yr ago |
+| [**Watch-and-Mobile-Phone-Detector-using-OpenVINO**](https://github.com/tha6unn/Watch-and-Mobile-Phone-Detector-using-OpenVINO) | This project demonstrates the use of OpenVINO (Open Visual Inference and Neural Network… | Python | 2 yr ago |
+| [**Flower-Type-Classifer-using-OpenVINO**](https://github.com/tha6unn/Flower-Type-Classifer-using-OpenVINO) | This project demonstrates the use of OpenVINO (Open Visual Inference and Neural Network… | Python | 2 yr ago |
+| [**Fake-news-prediction**](https://github.com/tha6unn/Fake-news-prediction) | This project aims to predict whether a news article is fake or real using machine learn… | Python | 2 yr ago |
+| [**Diabetes-Prediction**](https://github.com/tha6unn/Diabetes-Prediction) | &quot;Diabetes Prediction&quot; is a machine learning model developed to predict the risk of diab… | Python | 2 yr ago |
 <!-- LIVE:RECENT:END -->
 
 <details>
@@ -161,6 +161,6 @@ I like hard problems, fast feedback loops and teams that ship. If you're a found
 
 <p align="center">
 <!-- LIVE:UPDATED:START -->
-<sub>Live sections refreshed by GitHub Actions · last run 4 Oct 2026, 11:33 UTC</sub>
+<sub>Live sections refreshed by GitHub Actions · last run 4 Oct 2026, 14:14 UTC</sub>
 <!-- LIVE:UPDATED:END -->
 </p>
