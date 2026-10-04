@@ -22,7 +22,7 @@ from theme import FONT, MONO, THEMES, esc, gradient
 ROOT = Path(__file__).resolve().parent.parent
 LOGIN = os.environ.get("PROFILE_LOGIN", "tha6unn")
 API = "https://api.github.com/graphql"
-SKIP_LANGS = {"Jupyter Notebook", "HTML", "CSS", "SCSS", "Batchfile", "PowerShell", "Shell", "Dockerfile", "PLpgSQL", "Procfile"}
+SKIP_LANGS = {"Jupyter Notebook", "HTML", "CSS", "SCSS", "Batchfile", "PowerShell", "Shell", "Dockerfile", "PLpgSQL", "Procfile", "Less", "Stylus", "Sass", "Makefile"}
 
 
 # --------------------------------------------------------------------------- data
@@ -159,7 +159,7 @@ def summarise(data: dict) -> dict:
         "stars": sum(r["stargazerCount"] for r in repos),
         "prs": data["user"]["pullRequests"]["totalCount"],
         "langs": sorted(((n, b, lang_color[n]) for n, b in lang_bytes.items()), key=lambda x: -x[1]),
-        "public": [r for r in repos if not r["isPrivate"]],
+        "public": [r for r in repos if not r["isPrivate"] and r["name"].lower() != LOGIN.lower()],
         "today": today,
     }
 
