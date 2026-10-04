@@ -129,7 +129,11 @@ flowchart LR
 <!-- LIVE:RECENT:START -->
 | Repo | What it is | Lang | Pushed |
 |---|---|---|---|
-| – | Filled in automatically on the first run | – | – |
+| [**tha6unn**](https://github.com/tha6unn/tha6unn) | – | Python | today |
+| [**KST_Sample**](https://github.com/tha6unn/KST_Sample) | – | HTML | 3 mo ago |
+| [**ai-finance-manager**](https://github.com/tha6unn/ai-finance-manager) | – | JavaScript | 6 mo ago |
+| [**tamilnexus**](https://github.com/tha6unn/tamilnexus) | TamilNexus - Premium Tamil Language Learning Platform Website | HTML | 6 mo ago |
+| [**D2V_sample**](https://github.com/tha6unn/D2V_sample) | – | JavaScript | 9 mo ago |
 <!-- LIVE:RECENT:END -->
 
 <details>
@@ -157,6 +161,6 @@ I like hard problems, fast feedback loops and teams that ship. If you're a found
 
 <p align="center">
 <!-- LIVE:UPDATED:START -->
-<sub>Live sections refreshed by GitHub Actions</sub>
+<sub>Live sections refreshed by GitHub Actions · last run 4 Oct 2026, 11:33 UTC</sub>
 <!-- LIVE:UPDATED:END -->
 </p>
