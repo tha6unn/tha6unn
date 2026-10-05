@@ -23,7 +23,7 @@
 ```ts
 const tharun = {
   role:       "Founder, Madhigen Technologies",
-  builds:     ["SaaS platforms", "AI tools for engineers", "agent-powered workflows"],
+  builds:     ["B2B SaaS", "tools for engineers", "agent-powered workflows"],
   stack:      { web: ["Next.js", "React", "TypeScript", "Tailwind"],
                 backend: ["Python", "FastAPI", "Supabase", "PostgreSQL"],
                 ai: ["Claude", "Claude Code", "Agent SDK", "computer vision"] },
@@ -41,22 +41,24 @@ A product studio building AI-first software for real businesses.</p>
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>🏠 Propdock</h4>
-      <p>Secure, multi-tenant property and document management for landlords and property managers, with per-client branding and data residency.</p>
-      <sub><code>Next.js</code> <code>Supabase</code> <code>Postgres RLS</code></sub>
+      <h4>🔒 B2B SaaS</h4>
+      <p>Secure, multi-tenant platforms for real businesses, built privacy-first from day one.</p>
+      <sub><code>Next.js</code> <code>Postgres</code> <code>Security</code></sub>
     </td>
     <td width="33%" valign="top">
-      <h4>📐 Drawing Compare</h4>
-      <p>AI revision diff for engineering drawings. Two PDF revisions in, a numbered, zone-referenced change report out.</p>
-      <sub><code>Python</code> <code>Computer vision</code> <code>Desktop</code></sub>
+      <h4>🛠️ Engineering tools</h4>
+      <p>Desktop software that takes slow, error-prone manual checks off engineers' plates.</p>
+      <sub><code>Python</code> <code>Desktop</code> <code>Automation</code></sub>
     </td>
     <td width="33%" valign="top">
-      <h4>🤖 Madhigen OS</h4>
-      <p>A phone-first PWA that drives a fleet of Claude Code agents running on my machine, so work keeps shipping from anywhere.</p>
-      <sub><code>FastAPI</code> <code>Agent SDK</code> <code>Next.js PWA</code></sub>
+      <h4>🤖 Agent tooling</h4>
+      <p>In-house tools that let a small team ship like a big one with a fleet of AI agents.</p>
+      <sub><code>Claude Agent SDK</code> <code>FastAPI</code> <code>PWA</code></sub>
     </td>
   </tr>
 </table>
+
+<sub>🤫 Products are in private development. Public launches will be announced here.</sub>
 
 ### 🤖 How I ship: AI-native, end to end
 
@@ -68,7 +70,7 @@ flowchart LR
     D --> E[CI + AI review]
     E -->|green| F([🚀 Vercel · Railway · Supabase])
     E -.->|fix loop| C
-    G[📱 Madhigen OS] -. steer from phone .-> C
+    G[📱 Phone] -. steer from anywhere .-> C
 ```
 
 <sub>I treat AI agents like a team: I write the spec, they draft the code, CI and reviews keep everyone honest, and I make the calls.</sub>
