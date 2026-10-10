@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="230" viewBox="0 0 600 230" role="img" aria-label="Current streak 17 days, longest 17 days">
+<title>Current streak 17 days, longest 17 days</title>
+<defs><linearGradient id="acc" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#FF5A5F"/><stop offset="50%" stop-color="#8B5CF6"/><stop offset="100%" stop-color="#22D3EE"/></linearGradient><linearGradient id="accv" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#FF5A5F"/><stop offset="50%" stop-color="#8B5CF6"/><stop offset="100%" stop-color="#22D3EE"/></linearGradient></defs>
+<style>
+.h { font: 700 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #E6EDF3; }
+.k { font: 500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8B949E; }
+.v { font: 700 26px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #E6EDF3; }
+.big { font: 800 44px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #E6EDF3; }
+.s { font: 500 12px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #8B949E; }
+.in { animation: in .8s cubic-bezier(.2,.7,.2,1) both; }
+@keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="0.5" y="0.5" width="599" height="229" rx="16" fill="#0D1117" stroke="#30363D"/>
+<rect x="24" y="22" width="4" height="16" rx="2" fill="url(#accv)"/>
+<text x="36" y="35" class="h">Streak</text>
+
+<g class="in">
+<text x="96" y="112" text-anchor="middle" class="v">1,057</text>
+<text x="96" y="136" text-anchor="middle" class="k">Total contributions</text>
+<text x="96" y="156" text-anchor="middle" class="s">Jan 1, 2022 – now</text>
+</g>
+<line x1="192" y1="70" x2="192" y2="200" stroke="#30363D"/>
+<g class="in" style="animation-delay:.15s">
+<circle cx="300" cy="106" r="46" fill="none" stroke="#1F2630" stroke-width="8"/>
+<circle cx="300" cy="106" r="46" fill="none" stroke="url(#acc)" stroke-width="8" stroke-linecap="round"
+  stroke-dasharray="289.0" stroke-dashoffset="289.0" transform="rotate(-90 300 106)">
+  <animate attributeName="stroke-dashoffset" to="0" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.2 1" keyTimes="0;1"/>
+</circle>
+<text x="300" y="119" text-anchor="middle" class="big" style="font-size:38px">17</text>
+<text x="300" y="180" text-anchor="middle" class="k">Current streak (days)</text>
+<text x="300" y="198" text-anchor="middle" class="s">Sep 24, 2026 – today</text>
+</g>
+<line x1="408" y1="70" x2="408" y2="200" stroke="#30363D"/>
+<g class="in" style="animation-delay:.3s">
+<text x="504" y="112" text-anchor="middle" class="v">17</text>
+<text x="504" y="136" text-anchor="middle" class="k">Longest streak (days)</text>
+<text x="504" y="156" text-anchor="middle" class="s">Sep 24 – Oct 10, 2026</text>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="230" viewBox="0 0 600 230" role="img" aria-label="776 contributions this year">
+<title>776 contributions this year</title>
+<defs><linearGradient id="acc" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#E5484D"/><stop offset="50%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#0891B2"/></linearGradient><linearGradient id="accv" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#E5484D"/><stop offset="50%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#0891B2"/></linearGradient></defs>
+<style>
+.h { font: 700 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #1F2328; }
+.k { font: 500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #59636E; }
+.v { font: 700 26px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #1F2328; }
+.big { font: 800 44px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #1F2328; }
+.s { font: 500 12px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #59636E; }
+.in { animation: in .8s cubic-bezier(.2,.7,.2,1) both; }
+@keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="0.5" y="0.5" width="599" height="229" rx="16" fill="#FFFFFF" stroke="#D0D7DE"/>
+<rect x="24" y="22" width="4" height="16" rx="2" fill="url(#accv)"/>
+<text x="36" y="35" class="h">Shipping log</text>
+<g class="in" style="animation-delay:0.0s"><text x="36" y="92" class="v">776</text><text x="36" y="114" class="k">Contributions in 2026</text></g><g class="in" style="animation-delay:0.1s"><text x="306" y="92" class="v">1,057</text><text x="306" y="114" class="k">All-time contributions</text></g><g class="in" style="animation-delay:0.2s"><text x="36" y="170" class="v">4</text><text x="36" y="192" class="k">Pull requests opened</text></g><g class="in" style="animation-delay:0.3s"><text x="306" y="170" class="v">6</text><text x="306" y="192" class="k">Repositories owned</text></g>
+</svg>
