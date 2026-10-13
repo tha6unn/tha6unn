@@ -13,9 +13,9 @@ ROOT = Path(__file__).resolve().parent.parent
 ASSETS = ROOT / "assets"
 
 NAME = "Tharun S"
-ROLE = "Founder · Full-stack engineer · AI-native builder"
+ROLE = "Full-stack engineer · AI-native builder"
 COMMAND = '$ claude --agents 8 "turn this idea into a product"'
-CHIPS = ["Founder @ Madhigen Technologies", "AI agents in production", "India · UTC+5:30"]
+CHIPS = ["Shipping with AI agents", "Web · Python · Cloud", "India · UTC+5:30"]
 ORBIT_LABELS = ["Claude", "Agents", "Next.js", "Python", "Supabase", "Vercel"]
 
 W, H = 1200, 420
