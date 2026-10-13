@@ -126,32 +126,6 @@ flowchart LR
   </picture>
 </p>
 
-### 🛠️ Recently shipped in public
-
-<!-- LIVE:RECENT:START -->
-| Repo | What it is | Lang | Pushed |
-|---|---|---|---|
-| [**Real-time-Face-Detection-with-Latency-and-FPS-Calculation**](https://github.com/tha6unn/Real-time-Face-Detection-with-Latency-and-FPS-Calculation) | This project demonstrates real-time face detection using OpenVINO (Open Visual Inferenc… | Python | 2 yr ago |
-| [**Watch-and-Mobile-Phone-Detector-using-OpenVINO**](https://github.com/tha6unn/Watch-and-Mobile-Phone-Detector-using-OpenVINO) | This project demonstrates the use of OpenVINO (Open Visual Inference and Neural Network… | Python | 2 yr ago |
-| [**Flower-Type-Classifer-using-OpenVINO**](https://github.com/tha6unn/Flower-Type-Classifer-using-OpenVINO) | This project demonstrates the use of OpenVINO (Open Visual Inference and Neural Network… | Python | 2 yr ago |
-| [**Fake-news-prediction**](https://github.com/tha6unn/Fake-news-prediction) | This project aims to predict whether a news article is fake or real using machine learn… | Python | 2 yr ago |
-| [**Diabetes-Prediction**](https://github.com/tha6unn/Diabetes-Prediction) | &quot;Diabetes Prediction&quot; is a machine learning model developed to predict the risk of diab… | Python | 2 yr ago |
-<!-- LIVE:RECENT:END -->
-
-<details>
-<summary><b>🧪 Earlier experiments: ML and computer vision</b></summary>
-<br>
-
-| Project | Notes |
-|---|---|
-| [Diabetes-Prediction](https://github.com/tha6unn/Diabetes-Prediction) | ML model predicting diabetes risk |
-| [Fake-news-prediction](https://github.com/tha6unn/Fake-news-prediction) | NLP classifier for fake news |
-| [Watch & Phone Detector](https://github.com/tha6unn/Watch-and-Mobile-Phone-Detector-using-OpenVINO) | Real-time object detection with OpenVINO |
-| [Flower Classifier](https://github.com/tha6unn/Flower-Type-Classifer-using-OpenVINO) | Image classification with OpenVINO |
-| [Real-time Face Detection](https://github.com/tha6unn/Real-time-Face-Detection-with-Latency-and-FPS-Calculation) | Face detection with latency and FPS metrics |
-
-</details>
-
 ### 🤝 Let's build
 
 I like hard problems, fast feedback loops and teams that ship. If you're a founder or a business with a workflow begging to be automated, **[say hi on LinkedIn](https://www.linkedin.com/in/tha6un/)**.
