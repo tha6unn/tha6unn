@@ -2,12 +2,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="Tharun S. Founder, full-stack engineer, AI-native builder." src="assets/hero-dark.svg" width="100%">
+  <img alt="Tharun S. Full-stack engineer and AI-native builder." src="assets/hero-dark.svg" width="100%">
 </picture>
 
 <p align="center">
   <a href="https://github.com/tha6unn">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=I+turn+ideas+into+shipped+products.;Founder+%40+Madhigen+Technologies.;I+run+a+fleet+of+AI+agents+from+my+phone.;Next.js+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+Supabase.;Open+to+building+something+bold+with+you." alt="Typing intro">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=I+turn+ideas+into+shipped+products.;Full-stack+engineer.+AI-native+builder.;I+run+a+fleet+of+AI+agents+from+my+phone.;Next.js+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+Supabase.;Open+to+building+something+bold+with+you." alt="Typing intro">
   </a>
 </p>
 
@@ -22,21 +22,18 @@
 
 ```ts
 const tharun = {
-  role:       "Founder, Madhigen Technologies",
+  role:       "Full-stack engineer, AI-native builder",
   builds:     ["B2B SaaS", "tools for engineers", "agent-powered workflows"],
   stack:      { web: ["Next.js", "React", "TypeScript", "Tailwind"],
                 backend: ["Python", "FastAPI", "Supabase", "PostgreSQL"],
                 ai: ["Claude", "Claude Code", "Agent SDK", "computer vision"] },
   superpower: "shipping a product with a team of AI agents in the time it takes to write the spec",
   based:      "India (UTC+5:30)",
-  ask_me:     "how to run a company where most of the code is written by agents",
+  ask_me:     "how to ship real software where most of the code is written by agents",
 };
 ```
 
-### 🚀 What I'm building
-
-<p><b>🏢 Madhigen Technologies</b> <sub><code>founder</code></sub><br>
-A product studio building AI-first software for real businesses.</p>
+### 🚀 What I build
 
 <table>
   <tr>
@@ -58,7 +55,7 @@ A product studio building AI-first software for real businesses.</p>
   </tr>
 </table>
 
-<sub>🤫 Products are in private development. Public launches will be announced here.</sub>
+<sub>🤫 Most of my work lives in private repos. Public projects will show up here.</sub>
 
 ### 🤖 How I ship: AI-native, end to end
 
@@ -128,7 +125,7 @@ flowchart LR
 
 ### 🤝 Let's build
 
-I like hard problems, fast feedback loops and teams that ship. If you're a founder or a business with a workflow begging to be automated, **[say hi on LinkedIn](https://www.linkedin.com/in/tha6un/)**.
+I like hard problems, fast feedback loops and teams that ship. If you want to talk agents, products or engineering, **[say hi on LinkedIn](https://www.linkedin.com/in/tha6un/)**.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
